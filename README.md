@@ -23,13 +23,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maarlond\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maarlond\&layout=compact\&theme=radical)
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🛒 Mini SaaS de Gestão de Produtos e Vendas
@@ -37,6 +30,15 @@
 🔧 HTML | CSS | JavaScript  
 🎯 Foco em pequenos negócios e vendas diretas  
 🔗 https://github.com/maarlond/leal-cosmetics  
+
+## 🛠️ Tecnologias
+- Node.js
+- Express
+- PostgreSQL (Supabase)
+- JWT (autenticação)
+- bcrypt (criptografia de senha)
+- Cloudinary (upload de imagens)
+- Render (deploy backend)
 
 🚀 Funcionalidades:
 - Login
@@ -48,6 +50,17 @@
 🔄 Em desenvolvimento:
 - Área pública para clientes
 - Integração com WhatsApp
+- Catálogo público de produtos (sem login, acesso direto)
+
+## 🚀 Deploy
+- Frontend/Backend: https://leal-cosmetics-api.onrender.com
+- Banco de dados: Supabase (PostgreSQL)
+
+## 🔗 Acesso ao sistema
+👉 https://leal-cosmetics-api.onrender.com
+
+## 📌 Observação
+O projeto foi migrado de Railway para Supabase devido ao fim do trial da plataforma anterior.
 
 ---
 
