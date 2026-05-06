@@ -87,6 +87,7 @@ O projeto foi migrado de Railway para Supabase devido ao fim do trial da platafo
 🔧 HTML | CSS | JavaScript  
 🎯 Foco em UX, interatividade e experimentação com áudio  
 🔗 https://github.com/maarlond/dtrx-audio-lab  
+🔗 Acesso ao sistema 👉 https://maarlond.github.io/dtrx-audio-lab/
 
 ---
 
