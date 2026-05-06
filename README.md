@@ -54,7 +54,7 @@
 - Catálogo público de produtos (sem login, acesso direto)
 
 🚀 Deploy
-- Frontend: Render(https://leal-cosmetics-api.onrender.com)
+- Frontend: Render (https://leal-cosmetics-api.onrender.com)
 - Backend: Supabase (PostgreSQL)
 
 🔗 Acesso ao sistema
