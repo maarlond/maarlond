@@ -50,11 +50,12 @@
 🔄 Em desenvolvimento:
 - Área pública para clientes
 - Integração com WhatsApp
+- Validação Login
 - Catálogo público de produtos (sem login, acesso direto)
 
 🚀 Deploy
-- Frontend/Backend: https://leal-cosmetics-api.onrender.com
-- Banco de dados: Supabase (PostgreSQL)
+- Frontend: Render(https://leal-cosmetics-api.onrender.com)
+- Backend: Supabase (PostgreSQL)
 
 🔗 Acesso ao sistema
 👉 https://leal-cosmetics-api.onrender.com
