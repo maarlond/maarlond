@@ -31,7 +31,7 @@
 🎯 Foco em pequenos negócios e vendas diretas  
 🔗 https://github.com/maarlond/leal-cosmetics  
 
-## 🛠️ Tecnologias
+🛠️ Tecnologias utilizadas
 - Node.js
 - Express
 - PostgreSQL (Supabase)
@@ -52,14 +52,14 @@
 - Integração com WhatsApp
 - Catálogo público de produtos (sem login, acesso direto)
 
-## 🚀 Deploy
+🚀 Deploy
 - Frontend/Backend: https://leal-cosmetics-api.onrender.com
 - Banco de dados: Supabase (PostgreSQL)
 
-## 🔗 Acesso ao sistema
+🔗 Acesso ao sistema
 👉 https://leal-cosmetics-api.onrender.com
 
-## 📌 Observação
+📌 Observação
 O projeto foi migrado de Railway para Supabase devido ao fim do trial da plataforma anterior.
 
 ---
