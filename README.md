@@ -58,6 +58,7 @@
 
 🔗 Acesso ao sistema
 👉 https://leal-cosmetics-api.onrender.com
+Acesso Público - https://leal-cosmetics-api.onrender.com/catalogo
 
 📌 Observação
 O projeto foi migrado de Railway para Supabase devido ao fim do trial da plataforma anterior.
