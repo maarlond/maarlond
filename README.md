@@ -104,7 +104,7 @@ Conquistar uma oportunidade como desenvolvedor onde eu possa:
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/maarlond
+💼 LinkedIn: https://www.linkedin.com/in/maarlond  
 📧 Email: [marlon-dietrich@hotmail.com](mailto:marlon-dietrich@hotmail.com)
 
 ---
