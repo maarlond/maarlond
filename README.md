@@ -41,6 +41,8 @@
 - Render (deploy backend)
 
 🚀 Funcionalidades:
+- Catálogo público de produtos (sem login, acesso direto)
+- Integração com WhatsApp
 - Login
 - Cadastro e edição de produtos
 - Upload de imagens
@@ -48,10 +50,7 @@
 - Dashboard
 
 🔄 Em desenvolvimento:
-- Área pública para clientes
-- Integração com WhatsApp
 - Validação Login
-- Catálogo público de produtos (sem login, acesso direto)
 
 🚀 Deploy
 - Frontend: Render (https://leal-cosmetics-api.onrender.com)
