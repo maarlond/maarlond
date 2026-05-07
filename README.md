@@ -57,7 +57,7 @@
 - Backend: Supabase (PostgreSQL)
 
 🔗 Acesso ao sistema
-👉 https://leal-cosmetics-api.onrender.com
+👉 https://leal-cosmetics-api.onrender.com  
 Acesso Público - https://leal-cosmetics-api.onrender.com/catalogo
 
 📌 Observação
